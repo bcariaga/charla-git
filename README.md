@@ -141,3 +141,8 @@ Github es un sitio web que funciona como storage masivo de repositorios git, bas
 Tener el codigo en git significa que cualquier persona del mundo puede acceder al mismo, es uno de los pilares del open source y tambien muy util para armar un "portfolio" para cualquier desarrollador.
 
 Tiene muchas ventajas ademas se ser un repositorio, permite integrar aplicaciones para analizar el codigo, correr tests, "_buildear_" el código fuente, gestionar el proyecto, gestionar documentación y un largo etcétera...
+
+
+---
+
+Administrar credenciales: git config credential.helper store (y manejarlo desde el adminstrador de credenciales)
